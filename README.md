@@ -13,7 +13,7 @@ In addition, it also contains all code related to REST api developed using C#
 Note: The scripts provided are for SQL Server database, which was used during development
 
 # E-R Diagram
-![E-R Diagram](https://github.com/npmandhada/sample-shopping-application/blob/master/E-R-Diagram.JPG)
+![E-R Diagram](https://github.com/npmandhada/sample-shopping-application/blob/master/Data/E-R-Diagram.PNG)
 
 # Setup 
 Step 1 - Create database schema - DB-Schema-Creation-Script.sql file <br />
